@@ -1,4 +1,3 @@
-```markdown
 # Sales Insights Dashboard  
 
 ## 📊 Project Overview  
@@ -15,17 +14,6 @@ This project involves building a **real-time Sales Insights Dashboard** using **
 ✅ **Dynamic Visualizations**: Created an interactive Power BI dashboard for data-driven decision-making  
 ✅ **Customer & Product Insights**: Identified top customers and best-performing products  
 
-## 📂 Project Structure  
-```
-📁 Sales-Insights-Dashboard  
-│-- 📄 README.md (This File)  
-│-- 📂 SQL-Queries (SQL scripts for ETL and analysis)  
-│-- 📂 PowerBI-Dashboard (Power BI file for visualization)  
-│-- 📂 Data (Raw & Processed Data)  
-```
-
-## 📷 Dashboard Preview  
-![Sales Insights Dashboard](dashboard-preview.png)  
 
 ## 📝 How to Use  
 1. Clone this repository:  
@@ -40,6 +28,5 @@ If you found this project useful, feel free to **connect with me on LinkedIn** a
 
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/dhrumil-pawar/) 
 
----
 
-This **README.md** makes your GitHub project **well-structured and professional**. Let me know if you need any modifications! 😊# sales-insights-dashboard
+
