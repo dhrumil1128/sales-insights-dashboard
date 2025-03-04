@@ -9,7 +9,7 @@ This project involves building a **real-time Sales Insights Dashboard** using **
 - **Power BI** – Interactive dashboard and data visualization  
 - **ETL Processes** – Extracting, transforming, and loading real-time data  
 
-##Key Features  
+## Key Features  
 **Data Cleaning & Transformation**: Processed real-time sales data using SQL queries in **SQL Workbench**  
 **Data Modeling & Aggregation**: Structured key metrics like revenue, sales trends, and market-wise performance  
 **Dynamic Visualizations**: Created an interactive Power BI dashboard for data-driven decision-making  
